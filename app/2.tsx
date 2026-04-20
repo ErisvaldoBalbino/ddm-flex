@@ -84,7 +84,7 @@ const styles = StyleSheet.create({
   innerBall: {
     width: '20%',
     height: '50%',
-    borderRadius: '100%',
+    borderRadius: 100,
     backgroundColor: '#1a1a3e',
   },
   innerSquare: {
